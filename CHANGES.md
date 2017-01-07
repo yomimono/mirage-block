@@ -1,7 +1,7 @@
 ## 1.0.0 (2016-12-21)
 
-- Import `V1.BLOCK` from `mirage-types` into `Mirage_block.S` (@samoht)
-- Import `V1_LWT.BLOCK` from `mirage-types-lwt` into `Mirage_bloc_lwt.S` (@samoht)
+- Import `Mirage_types.BLOCK` from `mirage-types` into `Mirage_block.S` (@samoht)
+- Import `Mirage_types_lwt.BLOCK` from `mirage-types-lwt` into `Mirage_bloc_lwt.S` (@samoht)
 
 ### 0.2 (2015-11-09)
 
